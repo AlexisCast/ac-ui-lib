@@ -24,3 +24,15 @@ dist-ssr
 *.sw?
 
 *storybook.log
+
+#storybook build directory
+storybook-static
+
+# dotenv environment variable files
+test.env
+dev.env
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
